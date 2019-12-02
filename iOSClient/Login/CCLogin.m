@@ -80,7 +80,7 @@
     _imageUser.image = [CCGraphics changeThemingColorImage:[UIImage imageNamed:@"loginUser"] multiplier:2 color:NCBrandColor.sharedInstance.customerText];
     _user.textColor = NCBrandColor.sharedInstance.customerText;
     _user.tintColor = NCBrandColor.sharedInstance.customerText;
-    _user.placeholder = NSLocalizedString(@"_username_", nil);
+    _user.placeholder = NSLocalizedString(@"Tên đăng nhập", nil);
     UILabel *userPlaceholder = object_getIvar(_user, ivar);
     userPlaceholder.textColor = [UIColor colorWithRed:255.0/255.0 green:255.0/255.0 blue:255.0/255.0 alpha:0.7];
 
@@ -91,7 +91,7 @@
     _imagePassword.image = [CCGraphics changeThemingColorImage:[UIImage imageNamed:@"loginPassword"] multiplier:2 color:NCBrandColor.sharedInstance.customerText];
     _password.textColor = NCBrandColor.sharedInstance.customerText;
     _password.tintColor = NCBrandColor.sharedInstance.customerText;
-    _password.placeholder = NSLocalizedString(@"_password_", nil);
+    _password.placeholder = NSLocalizedString(@"Mật khẩu", nil);
     UILabel *passwordPlaceholder = object_getIvar(_password, ivar);
     passwordPlaceholder.textColor = [UIColor colorWithRed:255.0/255.0 green:255.0/255.0 blue:255.0/255.0 alpha:0.7];
     [self.password setFont:[UIFont systemFontOfSize:13]];
@@ -100,7 +100,7 @@
     [self.toggleVisiblePassword setImage:[CCGraphics changeThemingColorImage:[UIImage imageNamed:@"visiblePassword"] multiplier:2 color:[UIColor whiteColor]] forState:UIControlStateNormal];
     
     // Login
-    [self.login setTitle:NSLocalizedString(@"_login_", nil) forState:UIControlStateNormal] ;
+    [self.login setTitle:NSLocalizedString(@"Đăng nhập", nil) forState:UIControlStateNormal] ;
     self.login.backgroundColor = NCBrandColor.sharedInstance.customerText;
     self.login.tintColor = [UIColor blackColor];
     self.login.layer.cornerRadius = 20;

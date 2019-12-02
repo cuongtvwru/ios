@@ -22,213 +22,213 @@
 
 // General
 
-"_cancel_"                  = "Cancel";
-"_upload_file_"             = "Upload file";
-"_download_file_"           = "Download file";
-"_loading_"                 = "Loading";
-"_loading_with_points_"     = "Loading…";
-"_loading_num_"             = "Loading file %i";
-"_loading_autoupload_"      = "Auto uploading";
-"_uploading_"               = "Uploading";
-"_synchronization_"         = "Synchronization";
-"_delete_"                  = "Delete";
-"_delete_file_n_"           = "Delete file %i of %i";
-"_rename_"                  = "Rename";
-"_move_"                    = "Move";
-"_move_file_n_"             = "Move file %i of %i";
-"_creating_sharing_"        = "Creating share";
-"_updating_sharing_"        = "Updating share";
-"_removing_sharing_"        = "Removing share";
-"_add_"                     = "Add";
-"_login_"                   = "Log in";
-"_save_"                    = "Save";
-"_warning_"                 = "Warning";
-"_error_"                   = "Error";
-"_error_e2ee_"              = "Error E2EE";
-"_no_"                      = "No";
-"_yes_"                     = "Yes";
-"_select_"                  = "Select";
-"_select_all_"              = "Select all";
+"_cancel_"                  = "Huỷ bỏ";
+"_upload_file_"             = "Cập nhật dữ liệu";
+"_download_file_"           = "Tải tập tin";
+"_loading_"                 = "Đang tải";
+"_loading_with_points_"     = "Đang tải…";
+"_loading_num_"             = "Đang tải tập tin %i";
+"_loading_autoupload_"      = "Tự động tải lên";
+"_uploading_"               = "Tải lên";
+"_synchronization_"         = "Đồng bộ hoá";
+"_delete_"                  = "Xoá";
+"_delete_file_n_"           = "Xoá tập tin %i của %i";
+"_rename_"                  = "Đổi tên";
+"_move_"                    = "Di chuyển";
+"_move_file_n_"             = "Di chuyển tập tin %i của %i";
+"_creating_sharing_"        = "Tạo chia sẻ";
+"_updating_sharing_"        = "Đang cập nhật chia sẻ";
+"_removing_sharing_"        = "Xoá chia sẻ";
+"_add_"                     = "Thêm";
+"_login_"                   = "Đăng nhập";
+"_save_"                    = "Lưu";
+"_warning_"                 = "Cảnh báo";
+"_error_"                   = "Lỗi";
+"_error_e2ee_"              = "Lỗi E2EE";
+"_no_"                      = "Không";
+"_yes_"                     = "Có";
+"_select_"                  = "Chọn";
+"_select_all_"              = "Chọn tất cả";
 "_upload_"                  = "Upload";
 "_home_"                    = "Files";
-"_file_to_upload_"          = "File to upload";
+"_file_to_upload_"          = "Tập tin tải lên";
 "_destination_"             = "Destination";
 "_ok_"                      = "OK";
-"_beta_version_"            = "Beta version";
-"_function_in_testing_"     = "Function in testing, please send information about any problems you run into.";
-"_done_"                    = "Done";
-"_passcode_too_short_"      = "Passcode too short, at least 4 characters required";
-"_selected_"                = "Selected";
+"_beta_version_"            = "Bản thử nghiệm";
+"_function_in_testing_"     = "Chức năng kiểm tra, vui lòng gửi thông tin về bất kì vấn đề nào bạn gặp phải.";
+"_done_"                    = "Hoàn thành";
+"_passcode_too_short_"      = "Mật mã quá ngắn, yêu cầu ít nhất 4 kí tự";
+"_selected_"                = "Đã chọn";
 "_scan_fingerprint_"        = "Scan fingerprint to authenticate";
-"_no_active_account_"       = "No account found";
-"_info_"                    = "Info";
-"_warning_"                 = "Warning";
+"_no_active_account_"       = "Không tìm thấy tài khoản";
+"_info_"                    = "Thông tin";
+"_warning_"                 = "Cảnh báo";
 "_email_"                   = "Email";
-"_save_exit_"               = "Do you want to exit without saving?";
+"_save_exit_"               = "Bạn có muốn thoát mà không lưu?";
 "_video_"                   = "Video";
-"_overwrite_"               = "Overwrite";
-"_transfers_in_queue_"      = "Tranfers in progress, please wait…";
+"_overwrite_"               = "Ghi đè";
+"_transfers_in_queue_"      = "Đang tiến hành, xin vui lòng đợi...";
 "_too_errors_automatic_all_"= "Too many errors, go to \"Control Center\" to verify the problem";
-"_create_folder_"           = "Create folder";
-"_create_folder_on_"        = "Create folder on";
-"_close_"                   = "Close";
+"_create_folder_"           = "Tạo thư mục";
+"_create_folder_on_"        = "Tạo thư mục trên";
+"_close_"                   = "Đóng";
 "_postpone_"                = "Postpone";
-"_remove_"                  = "Remove";
-"_file_not_found_"          = "File not found";
-"_continue_"                = "Continue";
-"_continue_request_"        = "Do you want to continue?";
-"_auto_upload_folder_"      = "Auto upload";
-"_gallery_"                 = "Gallery";
-"_photo_"                   = "Photo";
+"_remove_"                  = "Xoá";
+"_file_not_found_"          = "Không tìm thấy tệp";
+"_continue_"                = "Tiếp tục";
+"_continue_request_"        = "Bạn có muốn tiếp tục?";
+"_auto_upload_folder_"      = "Tự động tải lên";
+"_gallery_"                 = "Bộ sưu tập";
+"_photo_"                   = "Ảnh";
 "_audio_"                   = "Audio";
-"_unknown_"                 = "Unknown";
-"_next_"                    = "Next";
-"_success_"                 = "Success";
-"_initialization_"          = "Initialization";
+"_unknown_"                 = "không xác định";
+"_next_"                    = "Tiếp theo";
+"_success_"                 = "Thành công";
+"_initialization_"          = "Khởi tạo";
 "_experimental_"            = "Experimental";
-"_select_dir_media_tab_"    = "Select as folder \"Media\"";
-"_error_creation_file_"     = "Ops! Could not create the file";
-"_save_path_"               = "Save path";
-"_save_settings_"           = "Save settings";
-"_mode_filename_"           = "Filename mode";
+"_select_dir_media_tab_"    = "Chọn làm thư mục \"Media\"";
+"_error_creation_file_"     = "Ôi! Không thể tạo tập tin";
+"_save_path_"               = "Lưu đường dẫn";
+"_save_settings_"           = "Lưu các thiết lập";
+"_mode_filename_"           = "Chế độ tên tệp";
 "_warning_owncloud_"        = "You are connected to an ownCloud server. This is untested and unsupported, use at your own risk. To upgrade to Nextcloud, see https://nextcloud.com/migration";
 "_warning_unsupported_"     = "You are using an unsupported version of Nextcloud. For the safety of your data we strongly recommend updating to the latest stable Nextcloud";
-"_restore_"                 = "Restore";
-"_camera_roll_"             = "Camera roll";
-"_tap_here_to_change_"      = "Tap here to change";
-"_no_albums_"               = "No albums";
+"_restore_"                 = "Khôi phục";
+"_camera_roll_"             = "Cuộn Camera";
+"_tap_here_to_change_"      = "Nhấn vào đây để thay đổi";
+"_no_albums_"               = "Không có album";
 "_denied_album_"            = "This app does not have access to \"Photos\", you can enable access in Privacy Settings";
 "_denied_camera_"           = "This app does not have access to \"Camera\", you can enable access in Privacy Settings";
-"_start_"                   = "Start";
+"_start_"                   = "Bắt đầu";
 "_purchase_"                = "Purchase";
 "_account_not_available_"   = "The account %@ of %@ do not exists, please add it to be able to read the file %@";
-"_error_parameter_schema_"  = "Wrong parameters, impossible to continue";
-"_comments_"                = "Comments";
-"_sharing_"                 = "Sharing";
-"_details_"                 = "Details";
-"_dark_mode_"               = "Dark mode";
-"_dark_mode_detect_"        = "Detect iOS dark mode";
-"_screen_"                  = "Screen";
-"_wipe_account_"            = "Account wiped from server";
-"_appconfig_view_title_"    = "Account configuration in progress…";
+"_error_parameter_schema_"  = "Tham số sai, không thể tiếp tục";
+"_comments_"                = "Bình luận";
+"_sharing_"                 = "Chia sẻ";
+"_details_"                 = "Chi tiết";
+"_dark_mode_"               = "Chế độ tối";
+"_dark_mode_detect_"        = "Phát hiện chế độ tối của iOS";
+"_screen_"                  = "Màn hình";
+"_wipe_account_"            = "Tài khoản bị xóa khỏi máy chủ";
+"_appconfig_view_title_"    = "Đang tiến hành cấu hình tài khoản...";
 
 // App
 
-"_network_available_"       = "Network available";
-"_network_not_available_"   = "Network unavailable";
+"_network_available_"       = "Mạng có sẵn";
+"_network_not_available_"   = "Không có mạng";
 
 // Networking
 
-"_file_too_big_"            = "File too large to be encrypted/decrypted";
-"_file_too_big_max_100_"    = "File too large (max 100 kb.)";
-"_...loading..._"           = "Loading…";
+"_file_too_big_"            = "Tệp quá lớn để được mã hóa / giải mã";
+"_file_too_big_max_100_"    = "Tệp quá lớn (tối đa 100 kb.)";
+"_...loading..._"           = "Tải...";
 "_download_plist_"          = " ";
 "_no_reuploadfile_"         = "Could not find nor resend file. Delete the upload and reload the file to upload it.";
-"_file_already_exists_"     = "Unable to complete the operation, a file with the same name exists";
-"_read_file_error_"         = "Could not read the file";
+"_file_already_exists_"     = "Không thể hoàn thành thao tác, một tệp có cùng tên tồn tại";
+"_read_file_error_"         = "Không thể đọc tập tin";
 
 // More
 
-"_more_"                        = "More";
-"_notifications_"               = "Notifications";
-"_logout_"                      = "Log out";
-"_quota_space_unlimited_"       = "Unlimited";
-"_quota_space_unknown_"         = "Unknown";
-"_quota_using_"                 = "You are using %@ of %@";
+"_more_"                        = "Nhiều hơn";
+"_notifications_"               = "Thông báo";
+"_logout_"                      = "Đăng xuất";
+"_quota_space_unlimited_"       = "Vô hạn";
+"_quota_space_unknown_"         = "không xác định";
+"_quota_using_"                 = "Bạn đang sử dụng %@ của %@";
 
 // Settings
 
-"_acknowledgements_"            = "Acknowledgements";
-"_settings_"                    = "Settings";
-"_passcode_"                    = "Password";
-"_lock_"                        = "Lock";
-"_lock_active_"                 = "Lock: On";
-"_lock_not_active_"             = "Lock: Off";
-"_lock_protection_no_screen_"        = "Do not ask at startup";
-"_lock_protection_no_screen_footer_" = "Use \"Do not ask at startup\" for protected folders only or for the encryption option";
+"_acknowledgements_"            = "Lời cảm ơn";
+"_settings_"                    = "Cài đặt";
+"_passcode_"                    = "Mật khẩu";
+"_lock_"                        = "Khoá";
+"_lock_active_"                 = "Khoá: On";
+"_lock_not_active_"             = "Khoá: Off";
+"_lock_protection_no_screen_"        = "Đừng hỏi lúc khởi động";
+"_lock_protection_no_screen_footer_" = "Sử dụng \"Không hỏi khi khởi động\" chỉ cho các thư mục được bảo vệ hoặc cho tùy chọn mã hóa ";
 "_url_"                         = "URL";
-"_username_"                    = "Username";
-"_change_credentials_"          = "Change your credentials";
-"_wifi_only_"                   = "Only use Wi-Fi connection";
-"_settings_autoupload_"         = "Auto upload";
+"_username_"                    = "Tên đặng nhập";
+"_change_credentials_"          = "Thay đổi thông tin đăng nhập của bạn";
+"_wifi_only_"                   = "Chỉ sử dụng kết nối Wi-Fi";
+"_settings_autoupload_"         = "Tự động tải lên";
 "_app_version_"                 = "Application version";
 "_app_in_use_"                  = "Application in use";
-"_contact_by_email_"            = "Contact us by email";
-"_clear_cache_"                 = "Clear cache";
-"_clear_cache_footer_"          = "Clear downloaded and offline files from the app";
-"_exit_"                        = "Reset application";
-"_exit_footer_"                 = "Remove all accounts and local data from the app";
-"_funct_not_enabled_"           = "Functionality not enabled";
-"_passcode_activate_"           = "Password lock on";
-"_disabling_passcode_"          = "Removing password lock";
-"_want_exit_"                   = "Attention! Will be reset to initial state. Continue?";
-"_proceed_"                     = "Proceed";
-"_delete_cache_"                = "Delete cache";
+"_contact_by_email_"            = "Liên lạc với chúng tôi qua email";
+"_clear_cache_"                 = "Xóa bộ nhớ cache";
+"_clear_cache_footer_"          = "Xóa các tệp đã tải xuống và ngoại tuyến khỏi ứng dụng";
+"_exit_"                        = "Đặt lại ứng dụng";
+"_exit_footer_"                 = "Xóa tất cả tài khoản và dữ liệu cục bộ khỏi ứng dụng";
+"_funct_not_enabled_"           = "Chức năng không được kích hoạt";
+"_passcode_activate_"           = "Khóa mật khẩu";
+"_disabling_passcode_"          = "Xóa khóa mật khẩu";
+"_want_exit_"                   = "Chú ý! Sẽ được đặt lại về trạng thái ban đầu. Tiếp tục?";
+"_proceed_"                     = "Tiến hành";
+"_delete_cache_"                = "Xóa bộ nhớ cache";
 "_want_delete_cache_"           = "Do you want to delete the cache (this also removes the transfers in progress) ?";
-"_want_delete_thumbnails_"      = "Do you want to delete all thumbnails too?";
-"_mail_deleted_"                = "Email deleted";
-"_mail_saved_"                  = "Email saved";
-"_mail_sent_"                   = "Email sent";
-"_mail_failure_"                = "Could not send email: %@";
-"_information_req_"             = "Information request";
-"_write_in_english_"            = "Kindly write to us in English";
-"_credentials_"                 = "Credentials";
-"_manage_account_"              = "Manage account";
-"_change_password_"             = "Change password";
-"_add_account_"                 = "Add account";
-"_delete_account_"              = "Remove account";
-"_want_delete_"                 = "Do you really want to delete?";
-"_no_delete_"                   = "No, do not delete";
-"_yes_delete_"                  = "Yes, delete";
-"_remove_cache_"                = "Please wait, deleting cache…";
-"_optimizations_"               = "Optimizations";
-"_synchronizations_"            = "Synchronized folders";
+"_want_delete_thumbnails_"      = "Bạn có muốn xóa tất cả các hình thu nhỏ không?";
+"_mail_deleted_"                = "Email đã bị xóa";
+"_mail_saved_"                  = "Email đã lưu";
+"_mail_sent_"                   = "Email đã gửi";
+"_mail_failure_"                = "Không thể gửi email: %@";
+"_information_req_"             = "Yêu cầu thông tin";
+"_write_in_english_"            = "Vui lòng viết thư cho chúng tôi bằng tiếng Anh";
+"_credentials_"                 = "Thông tin xác thực";
+"_manage_account_"              = "Quản lý tài khoản";
+"_change_password_"             = "Đổi mật khẩu";
+"_add_account_"                 = "Thêm tài khoản";
+"_delete_account_"              = "Xoá tài khoản";
+"_want_delete_"                 = "Bạn có thực sự muốn xóa?";
+"_no_delete_"                   = "Không, đừng xóa";
+"_yes_delete_"                  = "Có, xóa";
+"_remove_cache_"                = "Xin vui lòng chờ, xóa bộ nhớ cache...";
+"_optimizations_"               = "Tối ưu hóa";
+"_synchronizations_"            = "Thư mục được đồng bộ hóa";
 "_version_server_"              = "Server version";
-"_help_"                        = "Help";
-"_lock_protection_simply_"      = "Weak password protection";
-"_change_simply_passcode_"      = "Change password type";
+"_help_"                        = "Hỗ trợ";
+"_lock_protection_simply_"      = "Bảo vệ mật khẩu yếu";
+"_change_simply_passcode_"      = "Thay đổi loại mật khẩu";
 "_quota_"                       = "Quota";
-"_available_"                   = "available";
-"_accounts_"                    = "Accounts";
-"_information_"                 = "Information";
-"_personal_information_"        = "Personal info";
-"_user_full_name_"              = "Full name";
-"_user_address_"                = "Address";
-"_user_phone_"                  = "Phone number";
+"_available_"                   = "có sẵn";
+"_accounts_"                    = "Tài khoản";
+"_information_"                 = "Thông tin";
+"_personal_information_"        = "Thông tin cá nhân";
+"_user_full_name_"              = "Họ và tên";
+"_user_address_"                = "Địa chỉ";
+"_user_phone_"                  = "Số điện thoại";
 "_user_email_"                  = "Email";
 "_user_web_"                    = "Website";
 "_user_twitter_"                = "Twitter";
 "_user_job_"                    = "Job";
-"_user_businesssize_"           = "Business size";
-"_user_businesstype_"           = "Business type";
-"_user_city_"                   = "City";
-"_user_country_"                = "Country";
-"_user_company_"                = "Company";
-"_user_role_"                   = "Role";
+"_user_businesssize_"           = "Quy mô kinh doanh";
+"_user_businesstype_"           = "Loại hình kinh doanh";
+"_user_city_"                   = "Thành phố";
+"_user_country_"                = "Quốc gia";
+"_user_company_"                = "Công ty";
+"_user_role_"                   = "Vai trò";
 "_user_zip_"                    = "Zip";
-"_user_owner_"                  = "Owner";
-"_user_employee_"               = "Employee";
-"_user_contractor_"             = "Contractor";
-"_user_editprofile_"            = "Edit profile";
-"_favorite_offline_"            = "Favorites available offline";
+"_user_owner_"                  = "Chủ nhân";
+"_user_employee_"               = "Nhân viên";
+"_user_contractor_"             = "Nhà thầu";
+"_user_editprofile_"            = "Chỉnh sửa hồ sơ";
+"_favorite_offline_"            = "Yêu thích có sẵn ngoại tuyến";
 "_favorite_offline_footer_"     = "Making all favorites available offline may take a while and use a lot of memory while doing it.";
-"_advanced_"                    = "Advanced";
-"_disable_files_app_"           = "Disable Files App integration";
-"_disable_files_app_footer_"    = "Do not permit the access of files across the Apple Files application";
+"_advanced_"                    = "Nâng cao";
+"_disable_files_app_"           = "Vô hiệu hóa tích hợp ứng dụng tập tin";
+"_disable_files_app_footer_"    = "Không cho phép truy cập các tệp trên ứng dụng Apple Files";
 "_trial_"                       = "Trial";
 "_trial_expired_day_"           = "Days remaining";
-"_disableLocalCacheAfterUpload_footer_" = "After uploading the file, do not keep it in the local cache";
-"_disableLocalCacheAfterUpload_"        = "Disable local cache";
+"_disableLocalCacheAfterUpload_footer_" = "Sau khi tải lên tệp, không giữ nó trong bộ đệm cục bộ";
+"_disableLocalCacheAfterUpload_"        = "Vô hiệu hóa bộ đệm cục bộ";
 
 // Manage AutoUpload
 
-"_autoupload_"                      = "Auto upload photos/videos";
+"_autoupload_"                      = "Tự động tải lên hình ảnh / video";
 "_autoupload_select_folder_"        = "Select the \"Auto upload\" folder";
 "_autoupload_error_select_folder_"  = "Select a valid folder for the \"Auto upload\"";
 "_autoupload_background_"           = "Auto upload in the background";
 "_autoupload_photos_"               = "Auto upload photos";
 "_autoupload_videos_"               = "Auto upload videos";
-"_autoupload_description_"          = "The new photos/videos will be uploaded in your Cloud";
+"_autoupload_description_"          = "Ảnh / video mới sẽ được tải lên trong Đám mây của bạn";
 "_autoupload_description_background_"  = "This option requires the use of GPS to trigger the detection of new photos/videos in the camera roll once the location changes significantly";
 "_autoupload_background_title_"     = "Limitations";
 "_autoupload_background_msg_"       = "Due to iOS restrictions, it is not yet possible to perform background processes, unless GPS services are activated. Once the cell in the cellular network is changed, the system wakes up for a short time and checks for new photos to upload to the cloud.";
@@ -257,10 +257,10 @@
 
 // Manage Advanced
 
-"_show_hidden_files_"           = "Show hidden files";
-"_format_compatibility_"        = "Most Compatible";
-"_format_compatibility_footer_" = "\"Most compatible\" will save, when possible, photos as JPEG";
-"_privacy_"                     = "Privacy";
+"_show_hidden_files_"           = "Hiển thị các tập tin ẩn";
+"_format_compatibility_"        = "Tương thích nhất";
+"_format_compatibility_footer_" = "\"Tương thích nhất\" sẽ lưu, khi có thể, ảnh dưới dạng JPEG";
+"_privacy_"                     = "Riêng tư";
 "_privacy_footer_"              = "Nextcloud iOS uses a service for the analysis of a crash. Your personal information is not sent with the report. If you want disable it, please change the setting \"Disable crash reporter\" to ON";
 "_crashservice_title_"          = "Disable crash reporter";
 "_crashservice_alert_"          = "This option requires a restart of the app to take effect";
@@ -275,8 +275,8 @@
 "_login_bottom_label_"          = "Don't have a server yet?\nChoose one of the providers.";
 "_error_multidomain_"           = "Address not allowed, only the following domains are valid:";
 "_account_already_exists_"      = "The account %@ already exists";
-"_traditional_login_"           = "Revert to old login method";
-"_web_login_"                   = "Revert to web login method";
+"_traditional_login_"           = "Quay lại phương thức đăng nhập cũ";
+"_web_login_"                   = "Quay lại phương thức đăng nhập Web";
 
 // Favorite
 
@@ -334,28 +334,28 @@
 "_file_saved_local_"            = "File saved on local storage.";
 "_file_not_present_"            = "Error: File not present, please reload.";
 "_order_by_"                    = "Sort by";
-"_order_by_name_a_z_"           = "Sort by name (from A to Z)";
-"_order_by_name_z_a_"           = "Sort by name (from Z to A)";
-"_order_by_date_more_recent_"   = "Sort from the most recent";
-"_order_by_date_less_recent_"   = "Sort from the less recent";
-"_order_by_size_smallest_"      = "Sort from the smallest";
-"_order_by_size_largest_"       = "Sort from the largest";
-"_delete_selected_files_"       = "Delete files";
-"_move_selected_files_"         = "Move files";
+"_order_by_name_a_z_"           = "Sắp xếp theo tên (từ A đến Z)";
+"_order_by_name_z_a_"           = "Sắp xếp theo tên (từ Z đến A)";
+"_order_by_date_more_recent_"   = "Sắp xếp theo thời gian lâu hơn";
+"_order_by_date_less_recent_"   = "Sắp xếp theo thời gian gần đây";
+"_order_by_size_smallest_"      = "Sắp xếp theo thứ tự kích thước file tăng dần";
+"_order_by_size_largest_"       = "Sắp xếp theo thứ tự kích thước file giảm dần";
+"_delete_selected_files_"       = "Xoá tập tin";
+"_move_selected_files_"         = "Di chuyển tập tim";
 "_download_selected_files_"     = "Download files";
-"_download_selected_files_folders_" = "Download files and folders";
+"_download_selected_files_folders_" = "Tải tập tin và thư  ";
 "_error_operation_canc_"        = "Error: Operation canceled.";
 "_only_lock_passcode_"          = "Available only with Lock password activated. Activate it in the \"Settings\".";
 "_passcode_protection_"         = "Password protection";
-"_remove_favorites_"            = "Remove from favorites";
-"_remove_offline_"              = "Remove from offline";
-"_add_favorites_"               = "Add to favorites";
+"_remove_favorites_"            = "Loại bỏ khỏi mục ưa thích";
+"_remove_offline_"              = "Xoá khỏi ngoại tuyến";
+"_add_favorites_"               = "Thêm vào yêu thích";
 "_add_offline_"                 = "Add to offline";
 "_remove_passcode_"             = "Remove password protection";
-"_protect_passcode_"            = "Protect with password";
+"_protect_passcode_"            = "Bảo vệ bằng mật khẩu";
 "_share_"                       = "Share";
 "_reload_"                      = "Reload";
-"_open_in_"                     = "Open in…";
+"_open_in_"                     = "Mở...";
 "_remove_local_file_"           = "Remove from cache";
 "_add_local_"                   = "Add to local storage";
 "_comm_erro_pull_down_"         = "Attention: Communication error with the server. Pull down to refresh.";
@@ -376,12 +376,12 @@
 "_file_not_found_reload_"       = "File not found, pull down to refresh";
 "_title_section_download_"      = "DOWNLOAD";
 "_title_section_upload_"        = "UPLOAD";
-"_group_alphabetic_yes_"        = "✓ Group alphabetically";
-"_group_alphabetic_no_"         = "Group alphabetically";
-"_group_typefile_yes_"          = "✓ Group by file type";
-"_group_typefile_no_"           = "Group by file type";
-"_group_date_yes_"              = "✓ Group by date";
-"_group_date_no_"               = "Group by date";
+"_group_alphabetic_yes_"        = "✓ Nhóm theo thứ tự alphabetically";
+"_group_alphabetic_no_"         = "Nhóm theo thứ tự alphabetically";
+"_group_typefile_yes_"          = "✓ Nhóm theo file";
+"_group_typefile_no_"           = "Nhóm theo file";
+"_group_date_yes_"              = "✓ Nhóm theo Ngày";
+"_group_date_no_"               = "Nhóm theo  ";
 "_element_"                     = "element";
 "_elements_"                    = "elements";
 "_tite_footer_upload_wwan_"     = "  Wi-Fi network required, %lu %@ to upload";
@@ -389,16 +389,16 @@
 "_tite_footer_download_wwan_"   = "  Wi-Fi network required, %lu %@ to download";
 "_tite_footer_download_"        = "%lu %@ to download";
 "_limited_dimension_"           = "Maximum size reached";
-"_save_selected_files_"         = "Save images and videos to photo album";
+"_save_selected_files_"         = "Lưu hình ảnh và video vào Album  ";
 "_file_not_saved_cameraroll_"   = "Error: File not saved in photo album";
 "_file_saved_cameraroll_"       = "File saved in photo album";
-"_directory_on_top_yes_"        = "✓ Folders on top";
-"_directory_on_top_no_"         = "Folders on top";
+"_directory_on_top_yes_"        = "✓ Các thư mục được xếp trên đầu";
+"_directory_on_top_no_"         = "Các thư mục được xếp trên đầu";
 "_folder_automatic_upload_"     = "Folder for \"Auto upload\"";
 "_search_no_record_found_"      = "No result";
 "_search_in_progress_"          = "Search in progress…";
 "_search_instruction_"          = "Search for file (minimum 2 characters)";
-"_files_no_files_"              = "No files in here";
+"_files_no_files_"              = "Không có tập tin nào ở đây";
 "_files_no_folders_"            = "No folders in here";
 "_request_in_progress_"         = "Request to server in progress…";
 
@@ -434,11 +434,11 @@
 
 // Media
 
-"_select_media_folder_"         = "Select the \"Media\" folder";
-"_media_viewimage_show_"        = "Show images";
-"_media_viewimage_hide_"        = "Hide images";
-"_media_viewvideo_show_"        = "Show video";
-"_media_viewvideo_hide_"        = "Hide video";
+"_select_media_folder_"         = "Chọn thư mục \"Media\"";
+"_media_viewimage_show_"        = "Hiển thị hình ảnh";
+"_media_viewimage_hide_"        = "Ẩn hình ảnh";
+"_media_viewvideo_show_"        = "Hiển thị video";
+"_media_viewvideo_hide_"        = "Ẩn video";
 
 // Files Preview
 
@@ -448,7 +448,7 @@
 
 // Share
 
-"_share_link_"                  = "Share link";
+"_share_link_"                  = "Chia sẻ đường link";
 "_share_link_button_"           = "Send link to…";
 "_password_"                    = "Password";
 "_share_password_"              = "Password protected link";
@@ -471,26 +471,26 @@
 "_share_type_remote_"           = "Remote";
 "_enforce_password_protection_" = "Enforce password protection";
 "_password_obligatory_"         = "Enforce password protection enabled, password obligatory";
-"_shared_with_you_by_"          = "Shared with you by";
-"_shareLinksearch_placeholder_" = "Search for user or group…";
-"_new_comment_"                 = "New comment…";
-"_edit_comment_"                = "Edit comment";
-"_delete_comment_"              = "Delete comment";
-"_share_allow_editing_"         = "Allow editing";
-"_share_read_only_"             = "Read only";
-"_share_allow_upload_"          = "Allow upload and editing";
-"_share_file_drop_"             = "File drop (upload only)";
-"_share_hide_download_"         = "Hide download";
-"_share_password_protect_"      = "Password protect";
-"_share_expiration_date_"       = "Set expiration date";
-"_share_note_recipient_"        = "Note to recipient";
-"_share_delete_sharelink_"      = "Delete share link";
-"_share_add_sharelink_"         = "Add another link";
-"_share_can_reshare_"           = "Can reshare";
-"_share_can_create_"            = "Can create";
-"_share_can_change_"            = "Can change";
-"_share_can_delete_"            = "Can delete";
-"_share_unshare_"               = "Unshare";
+"_shared_with_you_by_"          = "Được chia sẻ bởi";
+"_shareLinksearch_placeholder_" = "Tìm kiếm người dùng hoặc nhóm...";
+"_new_comment_"                 = "Bình luận mới...";
+"_edit_comment_"                = "Chỉnh sửa bình luận";
+"_delete_comment_"              = "Xoá bình luận";
+"_share_allow_editing_"         = "Cho phép chỉnh sửa";
+"_share_read_only_"             = "Chỉ đọc";
+"_share_allow_upload_"          = "Cho phép tải lên và chỉnh sửa";
+"_share_file_drop_"             = "Thả tập tin(chỉ tải lên)";
+"_share_hide_download_"         = "Ẩn tải xuống";
+"_share_password_protect_"      = "Bảo vệ mật khẩu";
+"_share_expiration_date_"       = "Đặt ngày hết hạn";
+"_share_note_recipient_"        = "Lưu ý cho người nhận";
+"_share_delete_sharelink_"      = "Xoá liên kết chia sẻ";
+"_share_add_sharelink_"         = "Thêm một liên kết khác";
+"_share_can_reshare_"           = "Có thể chia sẻ lại";
+"_share_can_create_"            = "Có thể tạo";
+"_share_can_change_"            = "Có thể thay đổi";
+"_share_can_delete_"            = "Có thể xoá";
+"_share_unshare_"               = "Không chia sẻ";
 
 // Share Permission
 
@@ -531,19 +531,19 @@
 
 "_destiny_folder_"                  = "Folder: %@";
 
-"_no_transfer_"                     = "No transfers yet";
-"_no_transfer_sub_"                 = "Uploads and downloads from this device will show up here";
-"_no_activity_"                     = "No activity yet";
-"_transfers_"                       = "Transfers";
-"_activity_"                        = "Activity";
-"_activity_file_not_present_"       = "File no longer present";
-"_trash_file_not_found_"            = "It seems that the file is not in the trash, go to the trash to update it and try again";
+"_no_transfer_"                     = "Chưa có chuyển tài khoản nào";
+"_no_transfer_sub_"                 = "Tải lên và tải xuống từ thiết bị này sẽ hiển thị ở đây";
+"_no_activity_"                     = "Chưa có hoạt động";
+"_transfers_"                       = "Chuyển";
+"_activity_"                        = "Hoạt động";
+"_activity_file_not_present_"       = "Tập tin không còn nữa";
+"_trash_file_not_found_"            = "Có vẻ như tệp không nằm trong thùng rác, hãy vào thùng rác để cập nhật và thử lại";
 
 // List Shares
 
-"_list_shares_"                     = "Shares";
-"_list_shares_no_files_"            = "No shares yet";
-"_tutorial_list_shares_view_"       = "Files and folders you share will show up here";
+"_list_shares_"                     = "Chia sẻ";
+"_list_shares_no_files_"            = "Chưa có chia sẻ";
+"_tutorial_list_shares_view_"       = "Các tập tin và thư mục bạn chia sẻ sẽ hiển thị ở đây";
 
 
 // Offline - Local Storage
@@ -567,7 +567,7 @@
 
 "_destination_folder_"              = "Destination folder";
 "_use_folder_auto_upload_"          = "Use the \"Auto upload\" folder as destination";
-"_rename_filename_"                 = "Rename";
+"_rename_filename_"                 = "Đổi tên";
 "_filename_"                        = "Filename";
 "_preview_filename_"                = "Example preview of filename. You can use the mask %@ for date/time";
 "_forbidden_characters_"            = "Invalid character in filename";
@@ -600,13 +600,13 @@
 
 // EndToEnd Encryption
 
-"_e2e_settings_title_"              = "Encryption";
-"_e2e_settings_"                    = "End-to-end encryption";
-"_e2e_settings_start_"              = "Start end-to-end encryption";
-"_e2e_settings_not_available_"      = "End-to-end encryption not available";
-"_e2e_settings_activated_"          = "End-to-end encryption activated";
+"_e2e_settings_title_"              = "Mã hóa";
+"_e2e_settings_"                    = "Mã hóa đầu cuối";
+"_e2e_settings_start_"              = "Bắt đầu mã hóa đầu cuối";
+"_e2e_settings_not_available_"      = "Mã hóa đầu cuối không khả dụng";
+"_e2e_settings_activated_"          = "Mã hóa đầu cuối được kích hoạt";
 "_e2e_settings_view_passphrase_"    = "All 12 words together make a very strong password, letting only you view and make use of your encrypted files. Please write it down and keep it somewhere safe.";
-"_e2e_settings_read_passphrase_"    = "Read passphrase";
+"_e2e_settings_read_passphrase_"    = "Đọc cụm mật khẩu";
 "_e2e_settings_lock_not_active_"    = "Lock not active, go back to \"Settings\" and activate it";
 "_e2e_settings_the_passphrase_is_"  = "The passphrase is:";
 "_e2e_passphrase_request_title_"    = "Request passphrase";
@@ -664,19 +664,19 @@
 
 // Trah
 
-"_trash_view_"                      = "Deleted files";
-"_trash_restore_all_"               = "Restore all files";
-"_trash_delete_all_"                = "Empty trash";
-"_trash_no_trash_"                  = "No files deleted";
-"_trash_no_trash_description_"      = "You can restore deleted files from here";
-"_trash_restore_selected_"          = "Restore selected files";
-"_trash_delete_selected_"           = "Deleted selected files";
+"_trash_view_"                      = "Các tập tin đã xoá";
+"_trash_restore_all_"               = "Khôi phục tất cả các tệp";
+"_trash_delete_all_"                = "Làm sạch thùng";
+"_trash_no_trash_"                  = "Không có tập tin nào bị xóa";
+"_trash_no_trash_description_"      = "Bạn có thể khôi phục các tập tin bị xóa từ đây";
+"_trash_restore_selected_"          = "Khôi phục các tập tin đã chọn";
+"_trash_delete_selected_"           = "Đã xóa các tập tin được chọn";
 
 // Offline
 
-"_manage_file_offline_"             = "Manage offline files";
-"_set_available_offline_"           = "Set as available offline";
-"_remove_available_offline_"        = "Remove as available offline";
+"_manage_file_offline_"             = "Quản lý tệp ngoại tuyến";
+"_set_available_offline_"           = "Đặt khả dụng ngoại tuyến";
+"_remove_available_offline_"        = "Xóa khi có sẵn ngoại tuyến";
 
 // Richdocuments
 
@@ -687,14 +687,14 @@
 
 // Intro
 
-"_intro_1_title_"                   = "Keep your data secure and under your control";
-"_intro_2_title_"                   = "Secure collaboration & file exchange";
-"_intro_3_title_"                   = "Easy-to-use web mail, calendering & contacts";
-"_intro_4_title_"                   = "Screensharing, online meetings & web conferences";
+"_intro_1_title_"                   = "Đảm bảo dữ liệu của bạn được an toàn và trong tầm kiểm soát của bạn";
+"_intro_2_title_"                   = "Cộng tác & trao đổi tập tin an toàn";
+"_intro_3_title_"                   = "Dễ dàng sử dụng web mail, lịch & địa chỉ liên lạc";
+"_intro_4_title_"                   = "Chia sẻ màn hình, các cuộc họp trực tiếp & các hội nghị trên web";
 
-"_log_in_"                          = "Log in";
-"_sign_up_"                         = "Sign up with provider";
-"_host_your_own_server"             = "Host your own server";
+"_log_in_"                          = "Đăng nhập";
+"_sign_up_"                         = "Đăng ký với nhà cung cấp";
+"_host_your_own_server"             = "Lưu trữ máy chủ của riêng bạn";
 
 // Error
 

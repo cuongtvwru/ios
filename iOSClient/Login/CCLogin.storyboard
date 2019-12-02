@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -11,12 +13,12 @@
         <!--Login-->
         <scene sceneID="fVe-zF-WhZ">
             <objects>
-                <viewController storyboardIdentifier="CCLoginNextcloud" modalPresentationStyle="fullScreen" id="yj9-jo-WIn" customClass="CCLogin" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="CCLoginNextcloud" id="yj9-jo-WIn" customClass="CCLogin" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Bv6-g3-l0M">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <textField opaque="NO" clipsSubviews="YES" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Username" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="1Gf-Bw-Nim">
+                            <textField opaque="NO" clipsSubviews="YES" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Tài khoản" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="1Gf-Bw-Nim">
                                 <rect key="frame" x="45" y="208" width="319" height="44"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="JYC-15-QFZ"/>
@@ -25,7 +27,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="16"/>
                                 <textInputTraits key="textInputTraits" autocorrectionType="no" returnKeyType="done"/>
                             </textField>
-                            <textField opaque="NO" clipsSubviews="YES" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Password" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jU7-Iw-XfU">
+                            <textField opaque="NO" clipsSubviews="YES" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="Mật khẩu" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="jU7-Iw-XfU">
                                 <rect key="frame" x="45" y="252" width="324" height="44"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="44" id="SHB-pM-p1U"/>
